@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ruby Treasure</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">831732971597622</string>
+    <string name="fb_login_protocol_scheme">fb83173297159762</string>
+
+</resources>
